@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Mayuri Kurhe — Associate Software Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:04050d,50:14104a,100:00D4FF&text=MAYURI%20KURHE&fontSize=58&fontColor=ffffff&animation=twinkling&stroke=00D4FF&strokeWidth=2&desc=Associate%20Software%20Engineer%20%7C%20Backend%20Developer&descSize=18&descAlignY=72" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,12 +11,6 @@
   <a href="https://mayuri-portfolio-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b0f2e?style=flat-square&logo=vercel&logoColor=7fe7ff" /></a>
   <a href="mailto:mayurikurhe8@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f2e?style=flat-square&logo=gmail&logoColor=7fe7ff" /></a>
   <img src="https://komarev.com/ghpvc/?username=mayurik12&label=Views&color=301b69&style=flat-square" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 </p>
 
 <br/>
@@ -34,7 +28,7 @@ I'm a backend-focused software developer based in Pune with a solid foundation i
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/skills-3d.svg" width="100%" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,django,mysql,sqlite,aws,git,github,postman,opencv,pandas,numpy,sklearn&perline=7&theme=dark" />
 </p>
 
 <br/>
@@ -117,11 +111,7 @@ Python — Infosys Springboard (2025) &nbsp;·&nbsp; Java — NPTEL (2026) &nbsp
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurik12/mayurik12/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayurik12/mayurik12/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/mayurik12/mayurik12/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurik12&theme=discord&no-frame=true&margin-w=8&row=1" width="100%"/>
 </p>
 
 <p align="center">
