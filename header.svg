@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04050d"/><stop offset=".55" stop-color="#0b0f2e"/><stop offset="1" stop-color="#14104a"/></linearGradient>
+<linearGradient id="face" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7fe7ff"/></linearGradient>
+<linearGradient id="grid" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00d4ff" stop-opacity="0"/><stop offset="1" stop-color="#00d4ff" stop-opacity=".55"/></linearGradient>
+<radialGradient id="glow" cx=".78" cy=".35" r=".5"><stop offset="0" stop-color="#6a4dff" stop-opacity=".45"/><stop offset="1" stop-color="#6a4dff" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="6"/></filter>
+<clipPath id="r"><rect width="1000" height="340" rx="22"/></clipPath>
+</defs>
+<style>
+.f{animation:fl 4s ease-in-out infinite alternate}
+.f2{animation:fl 5.2s ease-in-out infinite alternate-reverse}
+.f3{animation:fl 3.6s ease-in-out infinite alternate}
+@keyframes fl{from{transform:translateY(0)}to{transform:translateY(-14px)}}
+.t{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800}
+.sub{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+</style>
+<g clip-path="url(#r)">
+<rect width="1000" height="340" fill="url(#bg)"/><rect width="1000" height="340" fill="url(#glow)"/>
+<line x1="304" y1="215" x2="-1040" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="318" y1="215" x2="-930" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="332" y1="215" x2="-820" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="346" y1="215" x2="-710" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="360" y1="215" x2="-600" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="374" y1="215" x2="-490" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="388" y1="215" x2="-380" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="402" y1="215" x2="-270" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="416" y1="215" x2="-160" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="430" y1="215" x2="-50" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="444" y1="215" x2="60" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="458" y1="215" x2="170" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="472" y1="215" x2="280" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="486" y1="215" x2="390" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="500" y1="215" x2="500" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="514" y1="215" x2="610" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="528" y1="215" x2="720" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="542" y1="215" x2="830" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="556" y1="215" x2="940" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="570" y1="215" x2="1050" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="584" y1="215" x2="1160" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="598" y1="215" x2="1270" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="612" y1="215" x2="1380" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="626" y1="215" x2="1490" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="640" y1="215" x2="1600" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="654" y1="215" x2="1710" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="668" y1="215" x2="1820" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="682" y1="215" x2="1930" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="696" y1="215" x2="2040" y2="340" stroke="url(#grid)" stroke-width="1"/>
+<line x1="0" y1="215.0" x2="1000" y2="215.0" stroke="#00d4ff" stroke-opacity="0.12" stroke-width="1"/>
+<line x1="0" y1="223.1" x2="1000" y2="223.1" stroke="#00d4ff" stroke-opacity="0.15" stroke-width="1"/>
+<line x1="0" y1="234.0" x2="1000" y2="234.0" stroke="#00d4ff" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="0" y1="248.8" x2="1000" y2="248.8" stroke="#00d4ff" stroke-opacity="0.22" stroke-width="1"/>
+<line x1="0" y1="268.7" x2="1000" y2="268.7" stroke="#00d4ff" stroke-opacity="0.28" stroke-width="1"/>
+<line x1="0" y1="295.6" x2="1000" y2="295.6" stroke="#00d4ff" stroke-opacity="0.37" stroke-width="1"/>
+<line x1="0" y1="332.0" x2="1000" y2="332.0" stroke="#00d4ff" stroke-opacity="0.48" stroke-width="1"/>
+<ellipse cx="790" cy="196" rx="46" ry="15.6" fill="#00d4ff" opacity=".28" filter="url(#blur)"/>
+<g class="f"><polygon points="744,96 790,122 790,162 744,136" fill="#00839e"/><polygon points="790,122 836,96 836,136 790,162" fill="#005466"/><polygon points="790,70 836,96 790,122 744,96" fill="#00edff"/><polyline points="744,96 790,122 836,96" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1"/></g>
+<ellipse cx="900" cy="244" rx="30" ry="10.2" fill="#8a5cff" opacity=".28" filter="url(#blur)"/>
+<g class="f2"><polygon points="870,167 900,184 900,210 870,193" fill="#55399e"/><polygon points="900,184 930,167 930,193 900,210" fill="#372466"/><polygon points="900,150 930,167 900,184 870,167" fill="#9a67ff"/><polyline points="870,167 900,184 930,167" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1"/></g>
+<ellipse cx="700" cy="242" rx="24" ry="8.4" fill="#ff7ad9" opacity=".28" filter="url(#blur)"/>
+<g class="f3"><polygon points="676,174 700,188 700,208 676,194" fill="#9e4b86"/><polygon points="700,188 724,174 724,194 700,208" fill="#663056"/><polygon points="700,160 724,174 700,188 676,174" fill="#ff88f3"/><polyline points="676,174 700,188 724,174" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1"/></g>
+<ellipse cx="850" cy="339" rx="36" ry="12.0" fill="#3a7bff" opacity=".28" filter="url(#blur)"/>
+<g class="f3"><polygon points="814,255 850,275 850,305 814,285" fill="#234c9e"/><polygon points="850,275 886,255 886,285 850,305" fill="#173166"/><polygon points="850,235 886,255 850,275 814,255" fill="#4089ff"/><polyline points="814,255 850,275 886,255" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1"/></g>
+<ellipse cx="940" cy="130" rx="18" ry="6.0" fill="#00ffa3" opacity=".28" filter="url(#blur)"/>
+<g class="f2"><polygon points="922,70 940,80 940,96 922,86" fill="#009e65"/><polygon points="940,80 958,70 958,86 940,96" fill="#006641"/><polygon points="940,60 958,70 940,80 922,70" fill="#00ffb6"/><polyline points="922,70 940,80 958,70" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1"/></g>
+<text class="t" x="72.6" y="160.6" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#120d3e">MAYURI KURHE</text>
+<text class="t" x="71.7" y="159.7" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#140f43">MAYURI KURHE</text>
+<text class="t" x="70.8" y="158.8" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#161049">MAYURI KURHE</text>
+<text class="t" x="69.9" y="157.9" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#17114e">MAYURI KURHE</text>
+<text class="t" x="69.0" y="157.0" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#191254">MAYURI KURHE</text>
+<text class="t" x="68.1" y="156.1" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#1b1459">MAYURI KURHE</text>
+<text class="t" x="67.2" y="155.2" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#1c155f">MAYURI KURHE</text>
+<text class="t" x="66.3" y="154.3" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#1e1664">MAYURI KURHE</text>
+<text class="t" x="65.4" y="153.4" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#20176a">MAYURI KURHE</text>
+<text class="t" x="64.5" y="152.5" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#22196f">MAYURI KURHE</text>
+<text class="t" x="63.6" y="151.6" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#231a75">MAYURI KURHE</text>
+<text class="t" x="62.7" y="150.7" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#251b7a">MAYURI KURHE</text>
+<text class="t" x="61.8" y="149.8" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#271c80">MAYURI KURHE</text>
+<text class="t" x="60.9" y="148.9" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="#281e85">MAYURI KURHE</text>
+<text class="t" x="60" y="148" font-size="66" textLength="560" lengthAdjust="spacingAndGlyphs" fill="url(#face)" stroke="#00d4ff" stroke-width="1.2" stroke-opacity=".8">MAYURI KURHE</text>
+<rect x="60" y="188" width="90" height="3" rx="1.5" fill="#00d4ff"/>
+<text class="sub" x="60" y="222" font-size="22" fill="#e6f7ff" letter-spacing="3">ASSOCIATE SOFTWARE ENGINEER</text>
+<text class="sub" x="60" y="252" font-size="16" fill="#8fb4d9" letter-spacing="2">BACKEND DEVELOPER  ·  PYTHON  ·  JAVA  ·  DJANGO  ·  AWS</text>
+</g>
+<rect x=".75" y=".75" width="998.5" height="338.5" rx="22" fill="none" stroke="#00d4ff" stroke-opacity=".35" stroke-width="1.5"/>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyZmMwYmE1Yi0zNmQ4LTQxN2ItOGE2Yi02ZGU3ODBmOWRiYTUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLOn089dpn/Bgb6viC1hsxoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5MzgzNjYwZS1iODY2LTQ3ODItODQzMC0zMzQ2MWZlYzgwMzRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo1+Hxn8mbrfijfpaJHOZwuAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggCEiKMpxWe+f3a8oPPyDxJbNhALXptbUjyJvbNWa2LQWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGTgCr7wbHS7kWNDPdsY1Z4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYICCxGcZwXvpHC1AYlegDLmXtdbVQUBicDGuh3+mjpRp+ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSQlZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjJmYzBiYTViLTM2ZDgtNDE3Yi04YTZiLTZkZTc4MGY5ZGJhNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdkMTVlNTJiLTQ4ZjMtNGIwYi1iYjAxLWFlNzgyODZmMDk0ZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAISIoynFZ75/dryg8/IPEls2EAtem1tSPIm9s1ZrYtBaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggLy0J3qS2QQGI7t3ndzMFzNi+RfUlHoo440v+aBTEW6KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggqoEVOdXg5FwRe9MCkJiBEDfzLeXycXQ31+9HMMbXpRt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIS3+JaPwhlmwChVeIGHeSSwOSAXnEpMAHU8hY2+WuqPLX0zgJDQMy4UHVrVY1EmolNRd6mcU+g2TL/T+z3sK88=</c2pa:manifest></metadata></svg>
