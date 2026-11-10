@@ -1,86 +1,63 @@
-<!-- ===================================================== -->
-<!-- MAYURI.DEV | PREMIUM GITHUB DEVELOPER PORTFOLIO -->
-<!-- ===================================================== -->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:142B50,100:00D4FF&text=MAYURI.DEV&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20ENGINEER&descAlignY=65&descSize=16" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,50:17104A,100:00D4FF&text=MAYURI.DEV&fontSize=65&fontColor=FFFFFF&animation=fadeIn&stroke=00D4FF&strokeWidth=2&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descSize=17&descAlignY=72" width="100%" alt="Mayuri Dev Banner"/>
+### Building software. Solving problems. Creating impact.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2500&pause=900&color=65E7FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Applications;Building+Scalable+Backend+Systems;Python+%7C+Java+%7C+Django+%7C+REST+APIs;Exploring+Cloud+%26+AI+Technologies" alt="Developer typing animation"/>
-
-<br/>
-
-<a href="https://linkedin.com/in/mayuri-kurhe">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://mayuri-portfolio-two.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-Explore-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:mayurikurhe8@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mayurik12&label=PROFILE+VISITORS&color=6C4AB6&style=for-the-badge" alt="Profile visitors"/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mayuri-portfolio-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuri-kurhe)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayurik12)
 
 </div>
 
 ---
 
+## 01 / ABOUT ME
+
+Hey! I'm **Mayuri Kurhe**, an MCA graduate and software developer from Pune, India.
+
+I enjoy transforming ideas into practical applications through clean code, backend engineering and intelligent software solutions.
+
+My interests include backend development, database management, machine learning and building applications that solve real-world problems.
+
+- 🎓 MCA Graduate — 2026
+- 💻 Software Developer | Python | Java
+- ⚙️ Interested in Backend Engineering & Software Development
+- 🧠 Exploring Machine Learning and AI technologies
+- 🚀 Building, testing and deploying real-world projects
+- 💼 Open to Software Developer opportunities
+
+---
+
+## 02 / TECH STACK
+
 <div align="center">
 
-### ⚡ WELCOME TO MY DIGITAL SPACE
+**PROGRAMMING LANGUAGES**
 
-**Hey! I'm Mayuri Kurhe.**
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
 
-I enjoy transforming ideas into practical software applications.
+**BACKEND & DATABASE**
 
-I'm a Software Developer focused on backend engineering, database development, API design and building intelligent applications.
+<img src="https://skillicons.dev/icons?i=django,mysql,sqlite,postgres" />
 
-Currently exploring better ways to build, test and deploy reliable software.
+**DATA SCIENCE & AI**
 
-</div>
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow" />
 
-<div align="center">
+**TOOLS & CLOUD**
 
-| 🎓 EDUCATION | 💻 SPECIALIZATION | 📍 LOCATION |
-|:---:|:---:|:---:|
-| MCA Graduate · 2026 | Backend Development | Pune, India |
+<img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode" />
+
+**WEB TECHNOLOGIES**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 
 </div>
 
 ---
 
-# 🧩 TECH STACK
-
-<div align="center">
-
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Programming languages"/>
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=django,mysql,sqlite&theme=dark" alt="Backend and databases"/>
-
-### CLOUD & DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman&theme=dark" alt="Cloud and tools"/>
-
-### DATA & COMPUTER VISION
-
-<img src="https://skillicons.dev/icons?i=opencv,pandas,numpy,sklearn&theme=dark" alt="Data and computer vision"/>
-
-### WEB TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="Web technologies"/>
-
-</div>
-
----
-
-# 🚀 PROJECT LAB
+## 03 / PROJECT SHOWCASE
 
 <div align="center">
 
@@ -88,271 +65,179 @@ Currently exploring better ways to build, test and deploy reliable software.
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01. RepoRadar — GitHub Profile Analytics
 
-<div align="center">
+**Category:** Developer Tools | Data Analytics
 
-### 💰 FINANCE TRACKER
+An interactive application for analyzing GitHub profiles and exploring repository insights.
 
-<img src="https://img.shields.io/badge/BACKEND_APPLICATION-00C8FF?style=for-the-badge"/>
+- GitHub profile analytics and repository insights.
+- Visual representation of developer activity.
+- Data-driven profile exploration.
 
-</div>
+**Built with:** Python · Streamlit · GitHub API
 
-A financial management application for tracking income, expenses and spending patterns.
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=streamlit&logoColor=white)](https://reporadar-insights.streamlit.app/)
+[![Source](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/mayurik12/github-profile-analytics)
 
-**Core Features**
-- Income and expense management
-- CRUD operations
-- Categorized spending reports
-- Authentication and access control
-- Cloud deployment
+### 02. Face Recognition Attendance System
 
-**Built With**
+**Category:** Computer Vision | Desktop Application
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
+A desktop attendance management application using face recognition technology.
 
-<div align="center">
+- 128-dimensional face embeddings.
+- Euclidean-distance face matching.
+- Duplicate attendance prevention.
+- Attendance history and CSV export.
+- Automated testing with pytest.
 
-<a href="https://github.com/mayurik12/django-finance-tracker">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00C8FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Built with:** Python · OpenCV · face_recognition · Tkinter · SQLite
 
-</div>
+[![Source](https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/mayurik12/face-attendance-system)
 
-</td>
-<td width="50%" valign="top">
+### 03. Django Finance Tracker
 
-<div align="center">
+**Category:** Backend Development | Web Application
 
-### 👁 FACE ATTENDANCE AI
+A personal finance management application for monitoring income, expenses and financial goals.
 
-<img src="https://img.shields.io/badge/COMPUTER_VISION-9B5DE5?style=for-the-badge"/>
+- User authentication.
+- Income and expense management.
+- CRUD operations.
+- Categorized spending reports.
+- Financial goal tracking.
 
-</div>
+**Built with:** Python · Django · SQLite
 
-A desktop attendance application powered by real-time face recognition.
+[![Source](https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/mayurik12/django-finance-tracker)
 
-**Core Features**
-- 128-dimensional face embeddings
-- Euclidean-distance matching
-- Duplicate attendance prevention
-- Attendance history and CSV export
-- Layered software architecture
-- 77 automated pytest tests
+### 04. House Price Prediction
 
-**Built With**
+**Category:** Machine Learning | Predictive Analytics
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest"/>
+A machine learning application that predicts property prices using regression algorithms.
 
-<div align="center">
+- Data preprocessing and feature engineering.
+- Linear Regression.
+- Gradient Boosting.
+- Random Forest.
+- Model evaluation using R², RMSE and MAE.
 
-<a href="https://github.com/mayurik12/face-attendance-system">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-9B5DE5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Built with:** Python · Scikit-learn · Pandas · NumPy
 
-</div>
+[![Source](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/mayurik12/house-price-prediction)
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### 05. Mayuri Portfolio
 
-<div align="center">
+**Category:** Personal Branding | Web Development
 
-### 🏡 HOMEVALUE PREDICTOR
+A personal developer portfolio showcasing technical skills, projects and professional experience.
 
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-00C853?style=for-the-badge"/>
+- Professional developer introduction.
+- Project showcase.
+- Technical skills and technologies.
+- Contact and professional links.
 
-</div>
+**Built with:** HTML · CSS · JavaScript
 
-An intelligent house price prediction application using regression algorithms and data analysis.
+[![Live Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel)](https://mayuri-portfolio-two.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/mayurik12/mayuri-portfolio)
 
-**Core Features**
-- Data preprocessing and feature engineering
-- Linear Regression
-- Gradient Boosting
-- Random Forest
-- Model evaluation using R², RMSE and MAE
-- Cloud-hosted prediction application
+### 06. Inventory Management System (IMS)
 
-**Built With**
+**Category:** Software Development | Desktop Application
 
-<div align="center">
+An inventory management project designed to manage product records and inventory operations.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+- Inventory record management.
+- Database-backed application.
+- Python-based desktop development.
 
-<br/><br/>
+**Built with:** Python · Tkinter · SQLite3
 
-<a href="https://house-price-prediction-lutn.onrender.com/">
-<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/mayurik12/house-price-prediction">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Source](https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/mayurik12/IMS)
 
-</div>
+### 07. GitHub Profile Analytics
 
-</td>
-</tr>
-</table>
+**Category:** Python | Developer Analytics
+
+A Python project focused on GitHub profile and repository analytics.
+
+- Repository exploration.
+- GitHub-related data analysis.
+- Developer activity insights.
+
+**Built with:** Python
+
+[![Source](https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/mayurik12/github-profile-analytics)
 
 ---
 
-# 🛠️ DEVELOPER WORKSPACE
+## 04 / EDUCATION
+
+| Qualification | Institution | Year |
+|---|---|---|
+| MCA | Dr. D. Y. Patil Technical Campus, Talegaon, Pune | 2026 |
+| BCA | Arts, Commerce & Science College, Sonai | 2024 |
+
+## 05 / CERTIFICATIONS
+
+- Python — Infosys Springboard
+- Cloud Computing — NPTEL
+- Java — NPTEL
+
+## 06 / DEVELOPER WORKFLOW
 
 <div align="center">
 
-### HOW I BUILD SOFTWARE
+| 01 — PLAN | 02 — DEVELOP | 03 — TEST | 04 — DEPLOY |
+|:---:|:---:|:---:|:---:|
+| 💡 | 💻 | 🧪 | 🚀 |
+| Understand | Build | Validate | Deliver |
 
-<table>
-<tr>
-<td align="center" width="25%">
+</div>
 
-<img src="https://img.shields.io/badge/01-Design-14213D?style=for-the-badge"/>
+I believe good software is built through continuous learning, thoughtful engineering and attention to detail.
 
-💡
+---
 
-**Plan**
+## 07 / GITHUB ACTIVITY
 
-Understand requirements and design solutions.
+<div align="center">
 
-</td>
-<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api?username=mayurik12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
-<img src="https://img.shields.io/badge/02-Develop-14213D?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurik12&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-⌨️
-
-**Build**
-
-Write clean and maintainable code.
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/03-Test-14213D?style=for-the-badge"/>
-
-🧪
-
-**Test**
-
-Debug, validate and improve quality.
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/04-Deploy-14213D?style=for-the-badge"/>
-
-🚀
-
-**Deploy**
-
-Deliver working applications.
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurik12&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-# 🧭 MY DEVELOPER JOURNEY
+## 08 / LET'S CONNECT
 
 <div align="center">
 
-| YEAR | MILESTONE |
-|:---:|:---|
-| 2024 | 🎓 Completed Bachelor of Computer Applications |
-| 2025 | 💻 Python/Django Software Developer Internship |
-| 2026 | 🎓 Completed MCA |
-| 2026 | ☕ Java & Software Development Training at QSpider |
-| NOW | 🚀 Building projects and improving software engineering skills |
+Have an interesting project, collaboration or opportunity?
 
-</div>
+Let's connect and build something meaningful.
 
-### 🎓 EDUCATION
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mayuri-kurhe)
 
-<img src="https://img.shields.io/badge/MCA-2026-6C4AB6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.53-00C8FF?style=for-the-badge"/>
+[![Portfolio](https://img.shields.io/badge/MY_PORTFOLIO-Explore-7C3AED?style=for-the-badge&logo=vercel)](https://mayuri-portfolio-two.vercel.app/)
 
-D. Y. Patil Technical Campus, Pune (SPPU)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurirkurhe8@gmail.com)
 
 <br/>
 
-<img src="https://img.shields.io/badge/BCA-2024-6C4AB6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-9.0-00C8FF?style=for-the-badge"/>
-
-Arts, Commerce & Science College, Sonai (SPPU)
-
-### 🏅 CERTIFICATIONS
-
-- 🐍 Python – Infosys Springboard (2025)
-- ☕ Java – NPTEL (2026)
-- ☁️ Cloud Computing – NPTEL (2026)
-
----
-
-# 📊 GITHUB COMMAND CENTER
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayurik12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurik12&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=mayurik12&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-# 🌐 LET'S CONNECT
-
-<div align="center">
-
-**Have an interesting project or opportunity? Let's connect!**
-
-<a href="https://github.com/mayurik12">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mayuri-kurhe">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://mayuri-portfolio-two.vercel.app">
-<img src="https://img.shields.io/badge/MY_PORTFOLIO-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:mayurikurhe8@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-00C853?style=for-the-badge"/>
-
-**Available for immediate joining.**
+**OPEN TO SOFTWARE DEVELOPER OPPORTUNITIES**
 
 <br/>
 
-### ✨ CODE. CREATE. INNOVATE. REPEAT.
+*Code. Create. Innovate. Repeat.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:17104A,100:00D4FF&height=130&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:142B50,100:07111F&height=100&section=footer" width="100%" />
 
 </div>
