@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:04050d,45:301B69,100:00D4FF&text=MAYURI%20KURHE&fontSize=58&fontColor=ffffff&animation=twinkling&stroke=00D4FF&strokeWidth=2&desc=Associate%20Software%20Engineer%20%7C%20Backend%20Developer&descSize=19&descAlignY=72" width="100%" alt="Banner: Mayuri Kurhe, Associate Software Engineer and Backend Developer"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Python+%C2%B7+Java+%C2%B7+Django;REST+APIs+%C2%B7+AWS+%C2%B7+SQL;Building+software.+Solving+problems.;Open+to+work+%E2%80%94+immediate+joining" alt="Typing animation: Python, Java, Django, REST APIs, AWS and SQL"/>
 </p>
