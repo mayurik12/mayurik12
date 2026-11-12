@@ -174,17 +174,20 @@ Core Java &amp; OOP<br/>Exceptions · DSA<br/>LeetCode practice
   <img src="https://img.shields.io/badge/JAVA-NPTEL_2026-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0b0f2e" alt="Java certification, NPTEL, 2026"/>
   <img src="https://img.shields.io/badge/CLOUD_COMPUTING-NPTEL_2026-00D4FF?style=flat-square&logo=icloud&logoColor=white&labelColor=0b0f2e" alt="Cloud Computing certification, NPTEL, 2026"/>
 </p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=DEVELOPER%20ACTIVITY&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Developer activity section"/></p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurik12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%" alt="GitHub statistics for mayurik12"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurik12&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Language distribution across repositories"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayurik12&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak"/>
-</p><!-- Contribution graph: GitShine hosted card -->
 <p align="center">
-  <a href="https://gitshine.com/stats/mayurik12">
-    <img src="https://gitshine.com/card/mayurik12?theme=night" width="100%" alt="Mayuri's GitHub contribution graph and statistics"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=DEVELOPER%20ACTIVITY&fontSize=26&fontColor=ffffff&section=header"
+       width="100%" alt="Developer Activity"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/53-CONTRIBUTIONS-58A6FF?style=for-the-badge&labelColor=0D1117"
+       alt="53 GitHub contributions"/>
+  <img src="https://img.shields.io/badge/5_DAY-STREAK-BC8CFF?style=for-the-badge&labelColor=0D1117"
+       alt="5 day contribution streak"/>
+</p><p align="center">
+  <a href="https://github.com/mayurik12">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurik12&bg_color=0d1117&color=58a6ff&line=00d4ff&point=bc8cff&area=true&hide_border=true&custom_title=Contribution%20Activity"
+         width="100%" alt="Mayuri's GitHub contribution activity graph"/>
   </a>
-</p><!-- CI badge intentionally omitted until the workflow badge URL is verified. -->
+</p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=LET%27S%20CONNECT&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Contact section"/></p><p align="center">Have an interesting project, collaboration or opportunity?<br/>Let's build something meaningful.</p><p align="center">
   <a href="https://linkedin.com/in/mayuri-kurhe"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
   <a href="https://mayuri-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore the portfolio"/></a>
