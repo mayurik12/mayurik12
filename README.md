@@ -3,49 +3,31 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Python+%C2%B7+Java+%C2%B7+Django;REST+APIs+%C2%B7+AWS+%C2%B7+SQL;Building+software.+Solving+problems.;Open+to+work+%E2%80%94+immediate+joining" alt="Typing animation: Python, Java, Django, REST APIs, AWS and SQL"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://mayuri-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website"/></a>
   <a href="https://linkedin.com/in/mayuri-kurhe"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
   <a href="https://github.com/mayurik12"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
   <a href="mailto:mayurikurhe8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ffa3?style=flat-square&labelColor=0b0f2e" alt="Open to work"/>
   <img src="https://img.shields.io/badge/JOINING-IMMEDIATE-00D4FF?style=flat-square&labelColor=0b0f2e" alt="Available for immediate joining"/>
   <img src="https://img.shields.io/badge/BASE-PUNE,_INDIA-8b5cf6?style=flat-square&labelColor=0b0f2e" alt="Based in Pune, India"/>
   <img src="https://komarev.com/ghpvc/?username=mayurik12&label=VISITORS&color=301B69&style=flat-square&labelColor=0b0f2e" alt="Profile visitor counter"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://img.shields.io/badge/10%2B-REST_API_ENDPOINTS-00D4FF?style=for-the-badge&labelColor=0b0f2e" alt="10 plus REST API endpoints"/>
   <img src="https://img.shields.io/badge/77-PYTEST_TESTS-c46bff?style=for-the-badge&labelColor=0b0f2e" alt="77 pytest tests"/>
   <img src="https://img.shields.io/badge/6-PROJECTS_BUILT-00e0b0?style=for-the-badge&labelColor=0b0f2e" alt="6 projects built"/>
   <img src="https://img.shields.io/badge/6_MONTHS-DJANGO_INTERNSHIP-ff9a3c?style=for-the-badge&labelColor=0b0f2e" alt="Six month Django internship"/>
 </p>
-
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=ABOUT&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="About section"/></p>
-
-<p align="center">
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=ABOUT&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="About section"/></p><p align="center">
   <i>I turn ideas into working software: APIs that respond, databases that hold up,<br/>
   tests that catch mistakes, and deployments people can actually open.</i>
-</p>
-
-<p align="center">
+</p><p align="center">
   MCA Graduate 2026 &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; Available for immediate joining<br/>
   Currently sharpening Core Java, Data Structures &amp; Algorithms and LeetCode.<br/>
   Drawn to backend engineering, databases and machine learning.
 </p>
-
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=TECH%20STACK&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Tech stack section"/></p>
-
-<table align="center">
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=TECH%20STACK&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Tech stack section"/></p><table align="center">
 <tr>
 <td align="center" width="50%"><b>LANGUAGES</b><br/><br/><img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java, JavaScript"/><br/><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/></td>
 <td align="center" width="50%"><b>BACKEND &amp; DATABASE</b><br/><br/><img src="https://skillicons.dev/icons?i=django,mysql,sqlite&theme=dark" alt="Django, MySQL, SQLite"/><br/><img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework"/> <img src="https://img.shields.io/badge/REST_APIs-00a6d6?style=flat-square" alt="REST APIs"/></td>
@@ -55,12 +37,7 @@
 <td align="center"><b>DATA &amp; VISION</b><br/><br/><img src="https://skillicons.dev/icons?i=opencv,pandas,numpy,sklearn&theme=dark" alt="OpenCV, Pandas, NumPy, scikit-learn"/></td>
 </tr>
 </table>
-
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=PROJECT%20SHOWCASE&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Project showcase section"/></p>
-
-<!-- 01 -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=PROJECT%20SHOWCASE&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Project showcase section"/></p><!-- 01 -->
 <table width="100%">
 <tr><td>
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=130&color=0:0b3d91,100:00d4ff&text=RepoRadar&fontSize=38&fontColor=ffffff&desc=GitHub%20profile%20analytics&descSize=16&descAlignY=72&section=header" width="100%" alt="RepoRadar project banner"/>
@@ -76,9 +53,6 @@
 </p>
 </td></tr>
 </table>
-
-<br/>
-
 <!-- 02 -->
 <table width="100%">
 <tr><td>
@@ -98,9 +72,6 @@
 </p>
 </td></tr>
 </table>
-
-<br/>
-
 <!-- 03 -->
 <table width="100%">
 <tr><td>
@@ -120,9 +91,6 @@
 </p>
 </td></tr>
 </table>
-
-<br/>
-
 <!-- 04 -->
 <table width="100%">
 <tr><td>
@@ -140,9 +108,6 @@
 </p>
 </td></tr>
 </table>
-
-<br/>
-
 <!-- 05 -->
 <table width="100%">
 <tr><td>
@@ -159,9 +124,6 @@
 </p>
 </td></tr>
 </table>
-
-<br/>
-
 <!-- 06 -->
 <table width="100%">
 <tr><td>
@@ -177,12 +139,7 @@
 </p>
 </td></tr>
 </table>
-
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=MY%20JOURNEY&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="My journey section"/></p>
-
-<table align="center" width="100%">
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=MY%20JOURNEY&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="My journey section"/></p><table align="center" width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 <img src="https://img.shields.io/badge/JAN_%E2%80%93_JUN_2025-00D4FF?style=for-the-badge&labelColor=0b0f2e" alt="January to June 2025"/>
@@ -204,12 +161,7 @@ Core Java &amp; OOP<br/>Exceptions · DSA<br/>LeetCode practice
 </td>
 </tr>
 </table>
-
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=EDUCATION%20%26%20CERTIFICATIONS&fontSize=24&fontColor=ffffff&section=header" width="100%" alt="Education and certifications section"/></p>
-
-<p align="center">
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=EDUCATION%20%26%20CERTIFICATIONS&fontSize=24&fontColor=ffffff&section=header" width="100%" alt="Education and certifications section"/></p><p align="center">
   <img src="https://img.shields.io/badge/MCA_2026-D.Y._PATIL_TECHNICAL_CAMPUS,_PUNE-00D4FF?style=for-the-badge&labelColor=0b0f2e" alt="MCA 2026, D. Y. Patil Technical Campus, Pune"/>
   <img src="https://img.shields.io/badge/CGPA-8.53-00ffa3?style=for-the-badge&labelColor=0b0f2e" alt="MCA CGPA 8.53"/>
 </p>
@@ -222,42 +174,21 @@ Core Java &amp; OOP<br/>Exceptions · DSA<br/>LeetCode practice
   <img src="https://img.shields.io/badge/JAVA-NPTEL_2026-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0b0f2e" alt="Java certification, NPTEL, 2026"/>
   <img src="https://img.shields.io/badge/CLOUD_COMPUTING-NPTEL_2026-00D4FF?style=flat-square&logo=icloud&logoColor=white&labelColor=0b0f2e" alt="Cloud Computing certification, NPTEL, 2026"/>
 </p>
-
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=DEVELOPER%20ACTIVITY&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Developer activity section"/></p>
-
-<p align="center">
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=DEVELOPER%20ACTIVITY&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Developer activity section"/></p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurik12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%" alt="GitHub statistics for mayurik12"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurik12&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Language distribution across repositories"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://streak-stats.demolab.com?user=mayurik12&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak"/>
-</p>
-
+</p><!-- Contribution graph: GitShine hosted card -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurik12&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mayurik12/face-attendance-system/actions/workflows/tests.yml"><img src="https://github.com/mayurik12/face-attendance-system/actions/workflows/tests.yml/badge.svg" alt="Continuous integration status"/></a>
-</p>
-
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=LET%27S%20CONNECT&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Contact section"/></p>
-
-<p align="center">Have an interesting project, collaboration or opportunity?<br/>Let's build something meaningful.</p>
-
-<p align="center">
+  <a href="https://gitshine.com/stats/mayurik12">
+    <img src="https://gitshine.com/card/mayurik12?theme=night" width="100%" alt="Mayuri's GitHub contribution graph and statistics"/>
+  </a>
+</p><!-- CI badge intentionally omitted until the workflow badge URL is verified. -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=70&color=0:04050d,50:301B69,100:00D4FF&text=LET%27S%20CONNECT&fontSize=26&fontColor=ffffff&section=header" width="100%" alt="Contact section"/></p><p align="center">Have an interesting project, collaboration or opportunity?<br/>Let's build something meaningful.</p><p align="center">
   <a href="https://linkedin.com/in/mayuri-kurhe"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
   <a href="https://mayuri-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore the portfolio"/></a>
   <a href="mailto:mayurikurhe8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
-</p>
-
-<p align="center"><b>OPEN TO SOFTWARE DEVELOPER OPPORTUNITIES</b><br/><i>Code. Create. Innovate. Repeat.</i></p>
-
-<p align="center">
+</p><p align="center"><b>OPEN TO SOFTWARE DEVELOPER OPPORTUNITIES</b><br/><i>Code. Create. Innovate. Repeat.</i></p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04050d,50:301B69,100:00D4FF&height=110&section=footer" width="100%" alt="Gradient footer wave"/>
 </p>
